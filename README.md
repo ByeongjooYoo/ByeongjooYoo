@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...  height="165"
 -->
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=ByeongjooYoo&show_icons=true&theme=dark">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=ByeongjooYoo&show_icons=true&theme=dark" height="165">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yoobj17">
